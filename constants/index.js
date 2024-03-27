@@ -1,1 +1,1 @@
-export const apiKey = "dce066fd8d34249e9fa0972e536f99c3";
+export const apiKey = process.env.MOVIE_DB_API_KEY;
